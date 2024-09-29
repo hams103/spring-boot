@@ -2,8 +2,8 @@ Spring Boot Prosjekt
 =======================
 
 
+Github repo URL: https://github.com/hams103/spring-boot-prosjekt
 
-Github repo URL:
 
 ### Kort beskrivelse:
 Klient/Tjener Applikasjon med Spring Boot(Spring Initializr i INTELLIJ IDEA).
